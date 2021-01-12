@@ -1,7 +1,5 @@
 # Welcome to Ivan Andrean Soetrisno's Profile Page
 
-[Image](https://imgur.com/R0loKFD)
-
 ## Education
 ### National University of Singapore (2016 - 2020)
 - **Bachelor of Science in Chemistry with Honours (Distinction)**
