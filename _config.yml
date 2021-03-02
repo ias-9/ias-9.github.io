@@ -1,2 +1,3 @@
 name: Ivan Andrean Soetrisno's Profile
-	markdown: kramdown
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
